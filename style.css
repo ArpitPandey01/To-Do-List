@@ -110,3 +110,13 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+@media screen and (max-width : 400px) {
+    button{
+    padding: 16px 30px; 
+    position: absolute;
+    top: 142px;
+    right: 22px;
+}
+
+}
